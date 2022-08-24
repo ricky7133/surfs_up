@@ -7,8 +7,13 @@ The purpose of this analysis was to find temperature trends in Oahu before openi
 * There was also a difference of 3.902589 between the mean, a difference of 8 for the minimum temperature and a difference of 2 for the maximum temperature.
 * There is a difference of .5 in the standard deviation in the months of June and December.
 
-![This is an image](
+June Temps:
 
-![This is an image](
+![This is an image](https://github.com/ricky7133/surfs_up/blob/main/June_Temps.png)
+
+December Temps:
+
+![This is an image](https://github.com/ricky7133/surfs_up/blob/main/December_Temps.png)
+
 ## Summary:
 These results show us that overall, there is a small difference in temperature between June and December. However, there is more queries we can perform. Such as finding the precipitation differences between those months. We could also run queries to find out what month would be the worst for business.
